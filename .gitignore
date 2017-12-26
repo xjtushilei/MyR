@@ -77,3 +77,5 @@ fabric.properties
 .idea
 
 
+.gradle/
+leetcode.iml
