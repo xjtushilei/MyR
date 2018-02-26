@@ -17,6 +17,7 @@ public class t1 {
         a.add(3);
         a.add(4);
         a.add(5);
+        a.add(5);
         System.out.println(a);
         LinkedHashMap l = new LinkedHashMap();
 

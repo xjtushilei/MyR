@@ -1,3 +1,5 @@
+package leetcode;
+
 /**
  * @author shilei
  * @Date 2017/12/6.
