@@ -1,4 +1,4 @@
-package 学习;
+package 学习.排序;
 
 public class 快排 {
     public static void main(String[] args) {
