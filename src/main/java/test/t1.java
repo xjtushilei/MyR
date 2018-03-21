@@ -1,6 +1,7 @@
 package test;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.List;
 
@@ -21,6 +22,9 @@ public class t1 {
         System.out.println(a);
 
         LinkedHashMap l = new LinkedHashMap();
+        Arrays.stream("fsaxfsa.fasdf".split("//.")).forEach(s -> {
+            System.out.println(s);
+        });
 
     }
 }
