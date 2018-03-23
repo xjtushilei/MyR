@@ -25,6 +25,13 @@ public class t1 {
         Arrays.stream("fsaxfsa.fasdf".split("//.")).forEach(s -> {
             System.out.println(s);
         });
+        Test test = null;
+        test.m();
+    }
+}
 
+class Test {
+    public static void m() {
+        System.out.println(1);
     }
 }
