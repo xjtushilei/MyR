@@ -21,6 +21,9 @@ class Node {
     @Override
     public String toString() {
         // TODO Auto-generated method stub
+//        AbstractQueuedSynchronizer
+//        HashSet set=new HashSet();
+//        set.retainAll(set);
         return String.valueOf(value);
     }
 }
