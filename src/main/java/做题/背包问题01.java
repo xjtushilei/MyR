@@ -48,7 +48,7 @@ public class 背包问题01 {
         System.out.println(Arrays.toString(path));
         for (int i = 1; i <= n; i++) {
             if (path[i] == 1) {
-                System.out.print(w[i] + "   价值：");
+                System.out.print(w[i] + "   重量：");
                 System.out.println(v[i]);
             }
         }
