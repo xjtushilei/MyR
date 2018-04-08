@@ -21,6 +21,20 @@ public class T2 {
         List<String> objectsss = new ArrayList<>();
         objects.addAll(objectsss);
 //        get(objectsss);
+        ArrayList<Integer> arrayList = new ArrayList<>();
+        arrayList.add(0);
+        arrayList.add(1);
+        arrayList.add(2);
+        arrayList.add(3);
+        arrayList.add(4);
+        arrayList.add(5);
+        arrayList.add(6);
+        arrayList.add(7);
+
+        List<Integer> list = arrayList.subList(2, 5);
+        arrayList.set(1, 1111);
+        System.out.println(arrayList);
+        System.out.println(list);
     }
 
     public static void get(List<Object> a) {
