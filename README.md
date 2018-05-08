@@ -2,7 +2,6 @@
 
 People
 
-
 :bowtie:
 :smile:
 :simple_smile:
